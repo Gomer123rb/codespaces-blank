@@ -1,0 +1,9 @@
+{print;"Text NUM @23"}
+#RUN 3000,3665,5613,6775
+{RUN 3000
+RUN 3665
+RUN 5613
+RUN 6775}
+RUN /bin/bash '--init-file ''/vscode/bin/windows-
+end
+{end}
